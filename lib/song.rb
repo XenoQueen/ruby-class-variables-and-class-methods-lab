@@ -11,5 +11,5 @@ class Song
   end
   
   def self.genre_count
-    
+    @@genres.inject
 end
