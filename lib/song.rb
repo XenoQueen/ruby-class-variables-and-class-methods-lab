@@ -22,5 +22,9 @@ class Song
     @@genres.uniq
   end
   
-  def self.
+  def self.artists
+    @@artists.uniq
+  end
+  
+  
 end
