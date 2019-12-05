@@ -15,5 +15,6 @@ class Song
   end
   
   def song.count
-    
+    @@song_count
+  end
 end
